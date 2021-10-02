@@ -7,7 +7,6 @@ public class Program {
 		System.out.println("Hello Word!!");
 		System.out.println("Hello Brasil!!");
 		System.out.println("Hello São Paulo!!");
-	
-	}
-
+		System.out.println("Bom dia!!");
+		}
 }
